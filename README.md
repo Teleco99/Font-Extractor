@@ -1,5 +1,5 @@
-# Image-Font-Extractor
-Image Font Extractor es una aplicación en Python diseñada para extraer fuentes tipográficas directamente desde imágenes de documentos. Utilizando tecnologías avanzadas de procesamiento de imágenes y reconocimiento óptico de caracteres (OCR), esta herramienta identifica y procesa fuentes tipográficas presentes en los documentos y las exporta en formatos utilizables.
+# Font-Extractor
+Font Extractor es una aplicación en Python diseñada para extraer fuentes tipográficas directamente desde imágenes de documentos. Utilizando tecnologías avanzadas de procesamiento de imágenes y reconocimiento óptico de caracteres (OCR), esta herramienta identifica y procesa fuentes tipográficas presentes en los documentos y las exporta en formatos utilizables.
 
 ### Características:
 - Extracción precisa de fuentes desde imágenes de documentos escaneados.
