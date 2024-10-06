@@ -1,0 +1,10 @@
+# Definición de constantes
+ALPHABET_PATH = r'alfabeto'
+PATTERNS_PATH = r'patrones'
+ALPHABET_GROUPED_PATH = r'alfabetoOrganizado'
+VECTORS_PATH = r'vectores'
+X_PATH = r'x.png'
+SCRIPT_CREATE_PATH = r'createFont.py'
+TESSERACT_PATH = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+OTF_PATH = r'fuenteInstalable.otf'
+SDF_PATH = r'fuente.sdf'
